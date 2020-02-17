@@ -1,3 +1,3 @@
 # git-webinar-my
 
-lorem5
+**Some git keywords**
